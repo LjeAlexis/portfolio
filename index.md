@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+layout: default
+title: "Portfolio"
+description: "Bienvenue sur mon portfolio en ligne."
 ---
 
