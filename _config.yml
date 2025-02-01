@@ -1,1 +1,4 @@
 theme: minima
+title: Portfolio
+description: Une vue sur mes projets publics
+baseurl: ""                         
